@@ -1,0 +1,185 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Apple iPhone 14",
+            "image": "./images/products/iphone/iphone3.jpg",
+            "price": 1000,
+            "category": "Featured Products"
+        },
+
+        {
+            "id": 3,
+            "title": "Sony WH-1000XM5",
+            "image": "./images/products/headphone/headphone2.jpg",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 4,
+            "title": "Apple iPhone Pro 14",
+            "image": "./images/products/iphone/iphone2.jpg",
+            "price": 850,
+            "category": "Special Products"
+        },
+        {
+            "id": 8,
+            "title": "Apple iPhone 14",
+            "image": "./images/products/iphone/iphone4.jpg",
+            "price": 1000,
+            "category": "Featured Products"
+        },
+        {
+            "id": 5,
+            "title": "Sony WH-1000XM5",
+            "image": "./images/products/headphone/headphone3.jpg",
+            "price": 250,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 7,
+            "title": "Sony WH-XB910N",
+            "image": "./images/products/headphone/headphone4.jpg",
+            "price": 365,
+            "category": "Featured Products"
+        },
+
+
+        {
+            "id": 10,
+            "title": "Apple iPhone 14",
+            "image": "./images/products/iphone/iphone5.jpg",
+            "price": 385,
+            "category": "Special Products"
+        },
+        {
+            "id": 11,
+            "title": "Bose Noise Cancelling 700",
+            "image": "./images/products/headphone/headphone6.jpg",
+            "price": 475,
+            "category": "Special Products"
+        },
+        {
+            "id": 13,
+            "title": "Apple iPhone 14 Pro",
+            "image": "./images/products/iphone/iphone6.jpg",
+            "price": 800,
+            "category": "Trending Products"
+        },
+        {
+            "id": 12,
+            "title": "Bose Noise Cancelling 700",
+            "image": "./images/products/headphone/headphone7.jpg",
+            "price": 850,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 14,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone8.jpg",
+            "price": 360,
+            "category": "Trending Products"
+        },
+        {
+            "id": 9,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone5.jpg",
+            "price": 320,
+            "category": "Special Products"
+        },
+        {
+            "id": 15,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone8.jpg",
+            "price": 305,
+            "category": "Trending Products"
+        },
+        {
+            "id": 16,
+            "title": "Samsung Galaxy",
+            "image": "./images/products/sumsung/samsung6.jpg",
+            "price": 400,
+            "category": "Special Products"
+        },
+        {
+            "id": 17,
+            "title": "Samsung Galaxy",
+            "image": "./images/products/sumsung/samsung5.jpg",
+            "price": 550,
+            "category": "Trending Products"
+        },
+        {
+            "id": 2,
+            "title": "Apple iPhone 11",
+            "image": "./images/products/iphone/iphone1.jpg",
+            "price": 300,
+            "category": "Special Products"
+        },
+        {
+            "id": 18,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone9.jpg",
+            "price": 630,
+            "category": "Trending Products"
+        },
+        {
+            "id": 20,
+            "title": "Samsung Galaxy",
+            "image": "./images/products/sumsung/samsung4.jpg",
+            "price": 270,
+            "category": "Special Products"
+        },
+        {
+            "id": 19,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone10.jpg",
+            "price": 250,
+            "category": "Trending Products"
+        },
+        {
+            "id": 1,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone1.jpg",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 24,
+            "title": "Samsung Galaxy",
+            "image": "./images/products/sumsung/samsung2.jpg",
+            "price": 500,
+            "category": "Featured Products"
+        },
+        {
+            "id": 21,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone11.jpg",
+            "price": 700,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 25,
+            "title": "Samsung Galaxy",
+            "image": "./images/products/sumsung/samsung1.jpg",
+            "price": 450,
+            "category": "Special Products"
+        },
+        {
+            "id": 22,
+            "title": "Samsung Galaxy",
+            "image": "./images/products/sumsung/samsung3.jpg",
+            "price": 460,
+            "category": "Trending Products"
+        },
+        {
+            "id": 23,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone12.jpg",
+            "price": 600,
+            "category": "Featured Products"
+        }
+
+    ]
+}
